@@ -1,1 +1,4 @@
-init
+- Create a command line tool as defined at most-answered-jurisdiction manual file.
+- You can use the language you are most familiar, please add the installation/running notes.
+- The API documentation is in api-documentation.md .
+- Send the project to us either via zip/tar.gz file or a link to a remote repository
